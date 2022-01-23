@@ -1,6 +1,5 @@
 import tkinter
 import tkinter.filedialog
-from tkinter.font import NORMAL
 import cv2
 from PIL import Image, ImageDraw, ImageFont
 from matplotlib.pyplot import grid
