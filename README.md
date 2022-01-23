@@ -1,4 +1,5 @@
 # 将普通视频转换为字符画视频，目前输出为1080p  
+需要用到的库有cv2（pip install opencv-python），PIL（pip install pillow），matplotlib（pip install matplotlib），numpy（pip install numpy）  
 两个文件没太大区别，做两版只是因为windows和macOS字体不同而已，并且两个系统UI比例也不一样，不是什么大问题  
 v1.1 现在可以不逐帧输出再合并成视频了  
 v1.2 添加了UI界面，可以选择输入文件和输出路径，不需要将视频放在同级文件夹下  
